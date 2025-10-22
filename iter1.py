@@ -31,6 +31,7 @@ st.markdown("""
     .kpi-card {
         background-color: #f0f2f6;
         padding: 1rem;
+        color:black;
         border-radius: 10px;
         text-align: center;
         margin: 0.5rem;
